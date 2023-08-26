@@ -1,0 +1,35 @@
+import random 
+
+name = "Jon"
+question = "10/10?"
+answer = ""
+
+
+
+
+ranNum = random.randint(1, 9)
+
+if ranNum == 1:
+  answer = "Yes - definitely."
+elif ranNum == 2:
+  answer = "It is decidedly so."
+elif ranNum == 3:
+  answer = "Without a doubt."
+elif ranNum == 4:
+  answer = "Reply hazy, try again."
+elif ranNum == 5:
+  answer = "Ask again later."
+elif ranNum == 6:
+  answer = "Better not tell you now."
+elif ranNum == 7:
+  answer = "My sources say no."
+elif ranNum == 8:
+  answer = "Outlook not so good."
+elif ranNum == 9:
+  answer = "Very doubtful."
+else:
+  answer = "ERROR"
+
+print(f"Name: {name}")
+print(f"Question: {question}")
+print(f"Anwser: {answer}")
