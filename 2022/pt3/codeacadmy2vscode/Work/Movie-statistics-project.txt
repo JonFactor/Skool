@@ -1,0 +1,101 @@
+Movie Statistics Project
+Explore Netflix data with your new understanding of summary statistics!
+Overview
+In this project, you’ll practice using summary statistics from real data.
+You will:
+interpret summary statistics in context
+make choices about which summary statistics are appropriate based on the situation
+answer free-response questions and compare your answers to a sample solution available after you submit your answer
+answer toggle questions that can be clicked on to toggle an explanation or solution
+explore some really interesting data!
+As an added bonus, some toggle prompts are labeled “Just for Fun” and don’t have to be answered. These prompts provide extra interesting details about the data for your enjoyment!
+Motivation
+You just got a very cool job in the film industry! Your first assignment is to do some research on the content produced by streaming services in the last few years. You’re putting together information for a report on the kinds of films being produced as well as any patterns that might be worth exploring further.
+Dataset
+You decide to start your research by exploring some data about films and documentaries produced by Netflix. The dataset you’ll be using is a modified version of one found on the website Kaggle. Your dataset includes 503 films with the following variables:
+title: title of the film
+genre: genre of the film
+language: primary language of the film
+year: year the film premiered
+runtime: length of the film in minutes
+score: film rating of 1 to 10 (worst to best) from the website IMDb
+Individual Variables
+Language
+You decide to start with the language variable. The table that follows gives the count of films in each language.
+
+Using the table, try answering the following individual questions. Then use your answers to write up a brief summary about the primary languages of the films.
+
+There are clearly a lot of films that have English as their primary language. Of the 503 films, what proportion have English as their primary language? (Click to Toggle Correct Answer)
+
+What is the ratio of English-language films to films in a single language that is NOT English? (Click to Toggle Correct Answer)
+
+What proportion of the films has multiple primary languages? (Click to Toggle Correct Answer)
+
+Free response
+Based on the questions you’ve just answered, write a few sentences summarizing what you found out about film languages. Give all proportions as percentages to help readers of your research report better understand your findings.
+Submit Response
+Stuck? Get a Hint
+Just for Fun: About 4% of the films have multiple primary languages. Find out which genres tend to have this interesting feature. (Click to Toggle the Information)
+
+IMDb Score
+You are excited to take a look at all the IMDb scores! Are most films rated around the same score? Are there some extremely low or high scores?
+Mean: 6.3
+Standard Deviation: 1.0
+Free response
+Using the plot and summary statistics, describe the distribution of IMDb scores.
+Submit Response
+Stuck? Get a Hint
+Just for Fun: Find out which films got the highest and lowest IMDb scores! (Click to Toggle the Information)
+
+Genre
+Your colleague is helping you with your research. They will be writing up the summary for the genre variable.
+Free response
+Which summary statistics might your colleague include in their summary of the film genres?
+Submit Response
+Stuck? Get a Hint
+Runtime
+Your colleague used analytics software to create a summary of the runtime variable. The software program has a default setting for numeric variables that outputs a distribution plot, the mean, and the standard deviation. The analytics software produced the following plot and statistics for the runtimes:
+Mean: 92.5
+Standard Deviation: 28.4
+Free response
+Based on the distribution plot, what concerns might you have with the default summary statistics used by the analytics software?
+Submit Response
+Stuck? Get a Hint
+Free response
+Which alternative statistics could your colleague use in this case?
+Submit Response
+Stuck? Get a Hint
+Just for Fun: Based on the distribution plot, what is your guess for the median and IQR of runtimes? Find out if your guess was close! (Click to Toggle the Median and IQR)
+
+Just for Fun: Find out which movie has that really high runtime. (Click to Toggle the Information)
+
+Relationships
+Next, you want to explore some relationships between variables. Aggregating data across genres and languages may give you some insights.
+IMDb Score by Genre
+You want to know if any genres have particularly high IMDb scores, so you look at a table of means and standard deviations of IMDb scores for each genre.
+Free response
+Describe what you learn about IMDb scores across genres from the means and standard deviations in the table.
+Submit Response
+Stuck? Get a Hint
+Runtime by Language
+You are wondering if there are any differences in the length of films across languages.
+Free response
+Describe what you learn about film runtimes across languages from the means and standard deviations in the table.
+Submit Response
+Stuck? Get a Hint
+Runtime and IMDb Score
+For your final exploration, you’ve just added the following plot and summary statistic to your report.
+Correlation Coefficient: 0.92
+Your colleague is concerned there may be an error. The plot and the correlation coefficient don’t match.
+Free response
+What does the plot tell you about the relationship between runtime and IMDb score?
+Submit Response
+Stuck? Get a Hint
+Free response
+What does the correlation coefficient tell you about the relationship between runtime and IMDb score?
+Submit Response
+Stuck? Get a Hint
+Just for Fun: The correlation coefficient was incorrect. What do you think the true correlation coefficient is? Find out if your guess is correct! (Click to Toggle the Information)
+
+Final Thoughts
+You finished your first movie research report! You did a lot of exploring and learned a lot about the different features of Netflix content. These findings could be the final step or the starting point of a deeper analysis. Great job!
