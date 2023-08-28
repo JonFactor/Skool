@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\bin\Debug\Basic_Data_Types2.exe.config
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\bin\Debug\Basic_Data_Types2.exe
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\bin\Debug\Basic_Data_Types2.pdb
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\obj\Debug\Basic_Data_Types2.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\obj\Debug\Basic_Data_Types2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\obj\Debug\Basic_Data_Types2.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\obj\Debug\Basic_Data_Types2.exe
+C:\Users\Factor_Jon\source\repos\Basic_Data_Types2\Basic_Data_Types2\obj\Debug\Basic_Data_Types2.pdb
