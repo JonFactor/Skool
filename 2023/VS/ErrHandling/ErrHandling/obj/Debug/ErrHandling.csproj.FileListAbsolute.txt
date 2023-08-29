@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\obj\Debug\ErrHandling.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\obj\Debug\ErrHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\obj\Debug\ErrHandling.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\bin\Debug\ErrHandling.exe.config
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\bin\Debug\ErrHandling.exe
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\bin\Debug\ErrHandling.pdb
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\obj\Debug\ErrHandling.exe
+C:\Users\Factor_Jon\source\repos\ErrHandling\ErrHandling\obj\Debug\ErrHandling.pdb

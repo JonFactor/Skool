@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\bin\Debug\txtAdventure.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\bin\Debug\txtAdventure.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\bin\Debug\txtAdventure.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\obj\Debug\txtAdventure.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\obj\Debug\txtAdventure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\obj\Debug\txtAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\obj\Debug\txtAdventure.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\txtAdventure\txtAdventure\obj\Debug\txtAdventure.pdb
