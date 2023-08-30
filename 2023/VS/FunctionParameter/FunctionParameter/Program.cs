@@ -22,7 +22,6 @@ namespace FunctionParameter
 			Subtraction(num1, num2);
 			Multiplication(num1, num2);
 			Division(num1, num2);
-			Console.WriteLine();
 
 			Console.ReadKey();
 		}
