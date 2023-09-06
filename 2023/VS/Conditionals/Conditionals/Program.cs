@@ -55,8 +55,6 @@ namespace Conditionals
 					Console.WriteLine("not bad :) you made the team");
 					break;
 				case 'c':
-					Console.WriteLine("you should study more but u made it");
-					break;
 				case 'd':
 					Console.WriteLine("you barley made it");
 					break;
