@@ -11,11 +11,16 @@ namespace Loops
 	{
 		static void Main(string[] args)
 		{
-			ForLoop(10);
+			//ForLoop(10);
+
+			string[] shrimp = { "pineapple shrimp", "cocnut shrimp", "blackend shrimp", "shrimp gumbo"
+				, "shrimp parm"};
+			LoopPrint(shrimp, "i like: ");
+
 			Console.ReadKey();
 		}
 
-		static void ForLoop(int numberOfTacos = 10)
+		static void ForLoop(int numberOfTacos)
 		{
 
 			// initilizer; condition; iterator
@@ -31,6 +36,16 @@ namespace Loops
 			}
 
 			Console.WriteLine("now i am sad because i have no tacos");
+
+		}
+
+		static void LoopPrint(string[] stringList, string preListMessage)
+		{
+			foreach(string i in stringList)
+			{
+				Console.WriteLine($"{preListMessage} {i}");
+			}
+
 
 		}
 	}
