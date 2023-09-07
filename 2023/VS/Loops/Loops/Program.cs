@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using System.Net;
 
 namespace Loops
 {
@@ -11,16 +12,19 @@ namespace Loops
 	{
 		static void Main(string[] args)
 		{
-			//ForLoop(10);
+			ForPrint(10);
 
 			string[] shrimp = { "pineapple shrimp", "cocnut shrimp", "blackend shrimp", "shrimp gumbo"
 				, "shrimp parm"};
-			LoopPrint(shrimp, "i like: ");
+			ForEachPrint(shrimp, "i like: ");
 
+			WhileLoopPrint(12);
+
+			DoWhileLoopPrint(21);
 			Console.ReadKey();
 		}
 
-		static void ForLoop(int numberOfTacos)
+		static void ForPrint(int numberOfTacos)
 		{
 
 			// initilizer; condition; iterator
@@ -39,14 +43,36 @@ namespace Loops
 
 		}
 
-		static void LoopPrint(string[] stringList, string preListMessage)
+		static void ForEachPrint(string[] stringList, string preListMessage)
 		{
-			foreach(string i in stringList)
+			foreach (string i in stringList)
 			{
 				Console.WriteLine($"{preListMessage} {i}");
 			}
 
 
+		}
+
+		static void WhileLoopPrint(int iterationCount)
+		{
+			int i = 0;
+
+			while (i < iterationCount)
+			{
+				Console.WriteLine($"i = {i}");
+				i++;
+			}
+		}
+
+		static void DoWhileLoopPrint(int iterationCount)
+		{
+			int i = 0;
+			do
+			{
+				Console.WriteLine("Hey there dooood. {0}", i);
+				i++;
+			}
+			while (i < iterationCount);
 		}
 	}
 }
