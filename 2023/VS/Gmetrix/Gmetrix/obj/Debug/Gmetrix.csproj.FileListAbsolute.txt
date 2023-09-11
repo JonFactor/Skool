@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\bin\Debug\Gmetrix.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\bin\Debug\Gmetrix.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\bin\Debug\Gmetrix.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\obj\Debug\Gmetrix.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\obj\Debug\Gmetrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\obj\Debug\Gmetrix.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\obj\Debug\Gmetrix.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Gmetrix\Gmetrix\obj\Debug\Gmetrix.pdb

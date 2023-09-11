@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Loops\Loops\obj\Debug\Loops.pdb

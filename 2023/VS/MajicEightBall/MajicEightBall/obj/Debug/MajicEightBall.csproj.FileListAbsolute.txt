@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\bin\Debug\MajicEightBall.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\bin\Debug\MajicEightBall.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\bin\Debug\MajicEightBall.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\obj\Debug\MajicEightBall.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\obj\Debug\MajicEightBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\obj\Debug\MajicEightBall.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\obj\Debug\MajicEightBall.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\MajicEightBall\MajicEightBall\obj\Debug\MajicEightBall.pdb
