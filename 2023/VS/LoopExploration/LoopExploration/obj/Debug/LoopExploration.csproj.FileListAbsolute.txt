@@ -1,0 +1,8 @@
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\bin\Debug\LoopExploration.exe.config
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\bin\Debug\LoopExploration.exe
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\bin\Debug\LoopExploration.pdb
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\obj\Debug\LoopExploration.csproj.AssemblyReference.cache
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\obj\Debug\LoopExploration.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\obj\Debug\LoopExploration.csproj.CoreCompileInputs.cache
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\obj\Debug\LoopExploration.exe
+C:\Users\jonfa\source\repos\LoopExploration\LoopExploration\obj\Debug\LoopExploration.pdb
