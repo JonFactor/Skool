@@ -1,0 +1,8 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\Classes\Classes\obj\Debug\Classes.pdb

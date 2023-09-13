@@ -1,0 +1,15 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.deps.json
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.runtimeconfig.json
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.dll
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfo.cs
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.dll
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\refint\HackerRank.dll
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.genruntimeconfig.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\HackerRank\HackerRank\obj\Debug\net6.0\ref\HackerRank.dll
