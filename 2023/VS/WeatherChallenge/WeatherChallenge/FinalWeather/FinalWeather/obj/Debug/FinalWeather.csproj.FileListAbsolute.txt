@@ -1,0 +1,11 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\bin\Debug\FinalWeather.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\bin\Debug\FinalWeather.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\bin\Debug\FinalWeather.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.csproj.CopyComplete
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\WeatherChallenge\WeatherChallenge\FinalWeather\FinalWeather\obj\Debug\FinalWeather.pdb
