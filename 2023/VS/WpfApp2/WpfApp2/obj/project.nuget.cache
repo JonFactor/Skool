@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdwENHLeZezwWP6BWQezewNd3cdalsWyuZslxQDjan5wNNXnmWSIud3iUeOn52cQhBjZRqWx12cTJcpsiD0XUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Factor_Jon\\Documents\\GitHub\\Skool\\2023\\VS\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Factor_Jon\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Factor_Jon\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

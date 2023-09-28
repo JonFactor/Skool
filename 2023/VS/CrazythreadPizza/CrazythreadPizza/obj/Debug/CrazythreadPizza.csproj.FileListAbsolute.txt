@@ -1,0 +1,16 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\bin\Debug\CrazythreadPizza.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\bin\Debug\CrazythreadPizza.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\bin\Debug\CrazythreadPizza.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\MainWindow.g.cs
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\App.g.cs
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza_MarkupCompile.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza_MarkupCompile.lref
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\MainWindow.baml
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.g.resources
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.Properties.Resources.resources
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.csproj.GenerateResource.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\CrazythreadPizza\CrazythreadPizza\obj\Debug\CrazythreadPizza.pdb
