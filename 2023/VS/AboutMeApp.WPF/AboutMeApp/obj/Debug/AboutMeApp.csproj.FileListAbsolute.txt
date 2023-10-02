@@ -1,0 +1,16 @@
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\bin\Debug\AboutMeApp.exe.config
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\bin\Debug\AboutMeApp.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\bin\Debug\AboutMeApp.pdb
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.csproj.AssemblyReference.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\MainWindow.g.cs
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\App.g.cs
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp_MarkupCompile.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp_MarkupCompile.lref
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\MainWindow.baml
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.g.resources
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.Properties.Resources.resources
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.csproj.GenerateResource.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.csproj.CoreCompileInputs.cache
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.exe
+C:\Users\Factor_Jon\Documents\GitHub\Skool\2023\VS\AboutMeApp.WPF\AboutMeApp\obj\Debug\AboutMeApp.pdb
