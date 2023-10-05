@@ -35,7 +35,8 @@
         <Label Content="Phone:" Grid.Row="3" Grid.Column="1"/>
         <Label Content="Height Inches:" Grid.Row="4" Grid.Column="1"/>
         <Label Content="Weight Lbs:" Grid.Row="5" Grid.Column="1"></Label>
-        <Label Content="Your BMI" FontSize="24" FontWeight="Bold" Grid.Row="1" Grid.Column="4"/>
+        <Label Content="Your BMI:" FontSize="24" FontWeight="Bold" Grid.Row="1" Grid.Column="4"/>
+        <Label x:Name="lblBmi" Content="0" FontSize="32" FontWeight="Bold" Grid.Row="2" Grid.Column="4"/>
 
         <TextBox x:Name="xFirstNameBox" Grid.Row="1" Grid.Column="2" FontSize="16" Height="30"/>
         <TextBox x:Name="xLastNameBox" Grid.Row="2" Grid.Column="2" FontSize="16" Height="30"/>
@@ -45,7 +46,7 @@
 
         <Label Content="BMI Results" FontSize="50" FontWeight="Bold" Grid.Row="3"
                Grid.ColumnSpan="3" Grid.RowSpan="2" Grid.Column="4" />
-        <Label Content="Message:" Grid.Row="5" Grid.Column="4" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="lblMessage" Content="Message" Grid.Row="5" Grid.Column="4" FontSize="20" FontWeight="Bold"/>
 
         <Button x:Name="SubmitBtn" Content="Submit" Grid.Row="6" Grid.Column="1" Click="SubmitBtn_Click"/>
         <Button x:Name="ClearBtn" Content="Clear" Grid.Row="6" Grid.Column="3" MouseDoubleClick="ClearBtn_Click"/>

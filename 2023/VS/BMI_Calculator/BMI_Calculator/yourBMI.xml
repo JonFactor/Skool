@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Last_x0020_Name="Jon" First_x0020_Name="Bob" Phone_x0020_Number="33303333" Height="432" Weight="3412" Customer_x0020_BMI="13" Status="UnderWeight" />
