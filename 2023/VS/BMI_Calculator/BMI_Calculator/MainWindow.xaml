@@ -29,7 +29,7 @@
             <RowDefinition Height="5*"/>
             <RowDefinition Height=".5*"/>
         </Grid.RowDefinitions>
-        
+
         <Label Content="First Name" Grid.Row="1" Grid.Column="1"/>
         <Label Content="Last Name:" Grid.Row="2" Grid.Column="1"/>
         <Label Content="Phone:" Grid.Row="3" Grid.Column="1"/>
@@ -48,7 +48,7 @@
                Grid.ColumnSpan="3" Grid.RowSpan="2" Grid.Column="4" />
         <Label x:Name="lblMessage" Content="Message" Grid.Row="5" Grid.Column="4" FontSize="20" FontWeight="Bold"/>
 
-        <Button x:Name="SubmitBtn" Content="Submit" Grid.Row="6" Grid.Column="1" Click="SubmitBtn_Click"/>
+        <Button x:Name="SubmitBtn" Content="Submit" Grid.Row="5" Grid.Column="1" Click="SubmitBtn_Click" Grid.ColumnSpan="2" Margin="0,52,123,263" Grid.RowSpan="3"/>
         <Button x:Name="ClearBtn" Content="Clear" Grid.Row="6" Grid.Column="3" MouseDoubleClick="ClearBtn_Click"/>
         <Button x:Name="ImportBtn" Content="Import" Grid.Row="6" Grid.Column="5"/>
         <Button x:Name="ExitBtn" Content="Exit" Grid.Row="6" Grid.Column="7" Click="ExitBtn_Click"/>

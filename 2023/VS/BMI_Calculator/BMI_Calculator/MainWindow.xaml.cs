@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -17,6 +18,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml;
+using System.Xml.Linq;
 using System.Xml.Serialization;
 
 
@@ -28,6 +30,32 @@ namespace BMI_Calculator
 	[XmlRoot("BMI Calc", Namespace = "www.bmicalc.ninja")]
 	public partial class MainWindow : Window
 	{
+
+		public class xmlBmi
+		{
+			public string firstName;
+			public string lastName;
+			public string phoneNumber;
+			public string heightInches;
+			public string weightLbs;
+			public string custBmi;
+			public string statusTitle;
+
+			public xmlBmi(string firstName, string lastName, string phoneNumber, string heightInches, string weightLbs, string custBmi, string statusTitle)
+			{
+				this.firstName = firstName;
+				this.lastName = lastName;
+				this.phoneNumber = phoneNumber;
+				this.heightInches = heightInches;
+				this.weightLbs = weightLbs;
+				this.custBmi = custBmi;
+				this.statusTitle = statusTitle;
+			}
+			public xmlBmi() { }
+		}
+
+		XmlSerializer xmlSerializer;
+		List<xmlBmi> xmlLisBmi = new List<xmlBmi>();
 
 		public string FilePath = "..//..//..//BMI_Calculator/";
 		public string FileName = "yourBMI.xml";
@@ -70,12 +98,14 @@ namespace BMI_Calculator
 		public MainWindow()
 		{
 			InitializeComponent();
-			loadStats();
 
+			xmlSerializer = new XmlSerializer(typeof(List<xmlBmi>));
+			xmlLisBmi = new List<xmlBmi>();
 			entrys = new List<TextBox>() {
 				xFirstNameBox, xLastNameBox, xPhoneBox, xWeightLbsBox, xHeightInchesBox
 			};
 
+			loadStats();
 		}
 
 		private void ClearBtn_Click(object sender, RoutedEventArgs e)
@@ -105,6 +135,7 @@ namespace BMI_Calculator
 				MessageBox.Show("Please fill in all entrys.");
 				return;
 			}
+
 			int height = Int32.Parse(xHeightInchesBox.Text);
 			int weight = Int32.Parse(entrys[3].Text);
 			double bmi = weight / (double)Math.Pow(height, 2);
@@ -125,16 +156,20 @@ namespace BMI_Calculator
 			lblBmi.Content = bmi;
 			lblMessage.Content = bmiStatus;
 
-			if (!File.Exists(FilePath + FileName))
+			if (!(File.Exists(FilePath + FileName)))
 			{
-				FileStream fs = File.Create(FilePath + FileName);
-				File.WriteAllText(FilePath + FileName, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Customer xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Last_x0020_Name=\"Jon\" First_x0020_Name=\"Bob\" Phone_x0020_Number=\"33303333\" Height=\"432\" Weight=\"3412\" Customer_x0020_BMI=\"13\" Status=\"UnderWeight\" />".Replace("/", "//"));
+				FileStream fileS = new FileStream(FilePath + FileName, FileMode.Create);
+				fileS.Close();
+				return;
 			}
 
-			TextWriter writer = new StreamWriter(FilePath + FileName);
-			XmlSerializer serializer = new XmlSerializer(typeof(Customer));
-			serializer.Serialize(writer, customer1);
-			writer.Close();
+			FileStream fileStream = new FileStream(FilePath + FileName, FileMode.Create, FileAccess.Write);
+			xmlBmi oneBmi = new xmlBmi(entrys[0].Text, entrys[1].Text, entrys[2].Text, entrys[4].Text, (entrys[3].Text), bmi.ToString(), bmiStatus);
+
+			xmlLisBmi.Add(oneBmi);
+
+			xmlSerializer.Serialize(fileStream, xmlLisBmi);
+			fileStream.Close();
 
 			loadStats();
 
@@ -165,21 +200,16 @@ namespace BMI_Calculator
 		}
 		private void loadStats()
 		{
-			Customer tempCust = new Customer();
-
-			XmlSerializer des = new XmlSerializer(typeof(Customer));
-			using (XmlReader reader = XmlReader.Create(FilePath + FileName))
+			if (!(File.Exists(FilePath + FileName)))
 			{
-				tempCust = (Customer)des.Deserialize(reader);
-
-				xLastNameBox.Text = tempCust.lastName;
-				xFirstNameBox.Text = tempCust.firstName;
-				xPhoneBox.Text = tempCust.phoneNumber;
+				XDocument document = new XDocument();
+				document.Save(FileName);
 			}
+			FileStream fileStream = new FileStream(FilePath + FileName, FileMode.Open, FileAccess.Read);
+			xmlLisBmi = (List<xmlBmi>)xmlSerializer.Deserialize(fileStream);
 
-			DataSet xmlData = new DataSet();
-			xmlData.ReadXml(FilePath + FileName, XmlReadMode.Auto);
-			xDataGrid.ItemsSource = xmlData.Tables[0].DefaultView;
+			xDataGrid.ItemsSource = xmlLisBmi;
+			fileStream.Close();
 		}
 
 		private bool nullInList()
